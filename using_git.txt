@@ -1,0 +1,5 @@
+Using Git
+
+git add FILENAME
+git commit -m "MESSAGE"
+git push
